@@ -1,0 +1,23 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wji29787/utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wji29787/utils/issues"
+  },
+  "homepage": "https://github.com/wji29787/utils#readme",
+  "devDependencies": {
+    "tsc": "^1.20150623.0",
+    "webpack": "^4.44.1"
+  }
+}

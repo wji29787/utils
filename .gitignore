@@ -1,0 +1,13 @@
+pids
+logs
+.idea/
+.vscode/
+.umi
+.umi-production
+.node
+node_modules
+npm-debug.log
+run
+dist
+public
+.DS_Store
