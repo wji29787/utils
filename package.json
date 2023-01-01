@@ -18,6 +18,6 @@
   "homepage": "https://github.com/wji29787/utils#readme",
   "devDependencies": {
     "tsc": "^1.20150623.0",
-    "webpack": "^4.44.1"
+    "webpack": "^5.75.0"
   }
 }
